@@ -33,8 +33,8 @@
 </div>
 
 <p align="center">
-  <img style="height:170px;" src="https://github-readme-stats.vercel.app/api?username=yeonseocho&theme=dracula&layout=compact"/>
-  <img style="height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonseocho&theme=dracula&layout=compact&langs_count=10"/>
+  <img style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=yeonseocho&theme=dracula&layout=compact"/>
+  <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonseocho&theme=dracula&layout=compact&langs_count=10"/>
 
 </p>
 
