@@ -1,21 +1,19 @@
+<div align="center">
+<h2> yeonseo</h2>
+<br>
+</div>
 
 <div align="center">
-Hi 👋 My name is Yeonseo
-======================
+<Strong><h3>📧Email📧</h3></Strong>
+</div>
+<div align="center">
+<!--a href="mailto:주소"><img style="width:auto; height:28px;" src="[https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="mailto:주소"--](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=%22mailto:%EC%A3%BC%EC%86%8C%22--)></a>
+<a [href="mailto:remi981010@naver.com](mailto:href=%22mailto:remi981010@naver.com)"><img style="width:auto; height:28px;" src="[https://img.shields.io/badge/-Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white&link="mailto:remi981010@naver.com"](https://img.shields.io/badge/-Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=%22mailto:remi981010@naver.com%22)></a>
+<!--a href="주소"><img style="width:auto; height:28px;" src="[https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link="주소"--](https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link=%22%EC%A3%BC%EC%86%8C%22--)></a>
+</div>
+<div align="center">
+<Strong><h3>⚒️Tech Stack⚒️</h3></Strong>
 
-Data Analyst & Data Scientist
-
---------------------------------
-
-* 🌍  Seoul
-* ✉️  You can contact me at [choyeonseo1998@gmail.com](mailto:choyeonseo1998@gmail.com)
-* 🧠  I'm learning Machine Learning & Deep learning
-
-### Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <img style="width:auto; height:28px;" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" s>
 <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <img style="width:auto; height:28px;" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
@@ -25,22 +23,24 @@ Data Analyst & Data Scientist
 <img style="width:auto; height:28px;" src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Python&logoColor=white"> <br>
+
 <!--img style="width:auto height:28px;" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"-->
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</div>
+<div align="center">
+<Strong><h3>☁️SNS list☁️</h3></Strong>
+<a href="https://www.instagram.com/cho_yeonseo/"><img style="width:auto; height:28px;" src="[https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/cho_yeonseo/"](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=%22https://www.instagram.com/cho_yeonseo/%22) ></a> <img style="width:auto; height:28px;" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonseocho%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false))"/></a>
+
+<br><br>
+<br><br>
+</div>
+
+<p align="center">
+<img style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=yeonseocho&theme=dracula&layout=compact"/>
+<img style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonseocho&theme=dracula&layout=compact&langs_count=10"/>
 
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/yeonseocho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/cho_yeonseo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://velog.io/@yeonseocho" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link="https://velog.io/@yeonseo width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/yeonseocho"><img src="https://github-readme-stats.vercel.app/api?username=yeonseocho&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="yeonseo's GitHub stats" /></a>
-
-<a href="https://github.com/yeonseocho"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yeonseocho&stroke=a855f7&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=a855f7&currStreakLabel=a855f7&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
-
-<a href="https://github.com/yeonseocho"><img src="https://activity-graph.herokuapp.com/graph?username=yeonseocho&bg_color=1c1917&color=a855f7&line=a855f7&point=a855f7&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p align="center">
+<br>
+<img style="height:200px;" src="https://github-profile-trophy.vercel.app/?username=yeonseocho&theme=flat&column=7&align=center"/>
+</p>
