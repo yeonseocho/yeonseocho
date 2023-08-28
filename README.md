@@ -1,46 +1,31 @@
-<div align="center">
-<h2> yeonseo</h2>
-<br>
-</div>
+## Hi there, I am [Yeonseo Cho](https://yeonseocho.github.io) <a href="https://github.com/yeonseocho"></a>
 
-<div align="center">
-<Strong><h3>📧Email📧</h3></Strong>
-</div>
-<div align="center">
-<!--a href="mailto:주소"><img style="width:auto; height:28px;" src="[https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="mailto:주소"--](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=%22mailto:%EC%A3%BC%EC%86%8C%22--)></a>
-<a [href="mailto:remi981010@naver.com](mailto:href=%22mailto:remi981010@naver.com)"><img style="width:auto; height:28px;" src="[https://img.shields.io/badge/-Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white&link="mailto:remi981010@naver.com"](https://img.shields.io/badge/-Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=%22mailto:remi981010@naver.com%22)></a>
-<!--a href="주소"><img style="width:auto; height:28px;" src="[https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link="주소"--](https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link=%22%EC%A3%BC%EC%86%8C%22--)></a>
-</div>
-<div align="center">
-<Strong><h3>⚒️Tech Stack⚒️</h3></Strong>
+[![Velog Badge](https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@yeonseocho)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/cho_yeonseo/)
+[![Naver Badge](https://img.shields.io/badge/-Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:remi981010@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:choyeonseo1998@gmail.com)
 
-<img style="width:auto; height:28px;" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" s>
-<img style="width:auto; height:28px;" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-<img style="width:auto; height:28px;" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
-<img style="width:auto; height:28px;" src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <br>
-<img style="width:auto; height:28px;" src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img style="width:auto; height:28px;" src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img style="width:auto; height:28px;" src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img style="width:auto; height:28px;" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-<img style="width:auto; height:28px;" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Python&logoColor=white"> <br>
+### Glad to see you here! &nbsp; 
 
-<!--img style="width:auto height:28px;" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"-->
-</div>
-<div align="center">
-<Strong><h3>☁️SNS list☁️</h3></Strong>
-<a href="https://www.instagram.com/cho_yeonseo/"><img style="width:auto; height:28px;" src="[https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/cho_yeonseo/"](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=%22https://www.instagram.com/cho_yeonseo/%22) ></a> <img style="width:auto; height:28px;" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonseocho%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false))"/></a>
+I'm a <b>Data Analyst @ Scientist</b>, love Design and passionate in data science, Explore a Python Data Science. 
 
-<br><br>
-<br><br>
-</div>
+- :open_book: I’m currently learning everything about Data.
+- :ok_man: Looking for a good opportunity to show up my Skills
+- :e-mail: Reach me through mail <a href="https://gmail.com/"> <img src="https://camo.githubusercontent.com/9f8403b6cb58d427fe1fcaafdf1cf00299d0bf2ef53b14a5e32e66ccf657876d/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f676f6f676c652d676d61696c2e737667" width="17px"></a> choyeonseo1998@gmail.com
+- :speech_balloon: Ask me about anything [here](https://github.com/yeonseocho/yeonseocho/issues)
 
-<p align="center">
-<img style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=yeonseocho&theme=dracula&layout=compact"/>
-<img style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonseocho&theme=dracula&layout=compact&langs_count=10"/>
+<details>	
+  <summary><b>👔 Technology & Media</b></summary>
+<br/>
+  
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="gatsby" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" alt="socketio" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" alt="vuetify" width="30" height="30"/>
 
-</p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="30" height="30"/> &nbsp;
+</details>
 
-<p align="center">
-<br>
-<img style="height:200px;" src="https://github-profile-trophy.vercel.app/?username=yeonseocho&theme=flat&column=7&align=center"/>
-</p>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeonseocho&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonseocho&show_icons=true&hide=jupyter notebook&hide_border=true&layout=compact&langs_count=8"/>
+</details>
