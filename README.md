@@ -26,5 +26,5 @@ I'm a <b>Data Analyst & Scientist</b>, love and passionate in data science, Expl
   <summary><b>⚡ Github Stats</b></summary>
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeonseocho&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonseocho-github&theme=dracula&layout=compact&langs_count=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonseocho&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 </details>
